@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://in.pinterest.com/pin/27725353951467933/?type=waving&color=0:0f0f23,100:1a1a3e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/jaiismine/jaiismine/main/github.jpg" width="100%"/>
 
 <br/>
 

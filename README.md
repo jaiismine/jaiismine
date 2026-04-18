@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jaiismine/jaiismine/main/github.jpg"  width="100%" alt="Jasmine Banner"/>
+<img src="https://raw.githubusercontent.com/jaiismine/jaiismine/main/github.jpg"  width="50%" alt="Jasmine Banner"/>
 
 <br/>
 

@@ -12,8 +12,6 @@
 
 </div>
 
----
-
 ## 🧠 About Me
 
 I prefer **building over just learning**.  
@@ -23,15 +21,11 @@ I focus on creating **real-world systems** that combine:
 - 🔌 IoT + hardware integration  
 - 🛠️ Functional, impact-first solutions  
 
----
-
 ## 🚀 Current Focus
 
 - ⚙️ Building **AI-powered automation systems**  
 - 📡 Developing **IoT-based safety & tracking solutions**  
 - 🧩 Exploring **smart systems that solve real problems**  
-
----
 
 ## 🛠️ Tech Stack
 
@@ -47,8 +41,6 @@ I focus on creating **real-world systems** that combine:
 ![Git](https://img.shields.io/badge/Git-0f0f23?style=for-the-badge&logo=git)
 
 </p>
-
----
 
 ## 🌟 Featured Build
 

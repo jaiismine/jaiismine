@@ -3,11 +3,10 @@
 <img src="https://raw.githubusercontent.com/jaiismine/jaiismine/main/banner.jpg" width="100%" height="170" style="object-fit: cover;" alt="Jasmine Banner"/>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,100:1a1a3e&height=140&section=header&text=Jasmine&fontSize=32&fontColor=ffffff" width="100%"/>
 
-<div align="center">
+<div>
 
-### ⚡ Hey there, I’m Jasmine  
+### ⚡ Hey there, I’m Jaismine  
 *Builder • AI Systems • IoT*
 
 </div>
@@ -35,7 +34,7 @@ I focus on creating **real-world systems** that combine:
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p>
 
 ![C](https://img.shields.io/badge/C-0f0f23?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-0f0f23?style=for-the-badge&logo=java)
@@ -63,18 +62,10 @@ I focus on creating **real-world systems** that combine:
 
 ---
 
-## 🧭 Motto
-
-<div align="center">
+<div>
 
 ### *“Build first. Learn by doing. Impact always.”*
 
 </div>
 
----
 
-<div align="center">
-
-⚡ *Always building something real.*
-
-</div>

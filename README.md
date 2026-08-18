@@ -1,5 +1,7 @@
 <div>
 Hey, I'm Jasmine 👋
+
+  
 Software Engineer • AI/ML Builder • Curious About Intelligent Systems
 
 I'm a Computer Science Engineering student who enjoys understanding how technology works under the hood and then turning that understanding into something I can actually build.

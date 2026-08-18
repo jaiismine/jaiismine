@@ -1,5 +1,5 @@
 <div>
-Hey, I'm Jasmine 👋
+Hey, I'm Jaismine 👋
 
   
 Software Engineer • AI/ML Builder • Curious About Intelligent Systems
